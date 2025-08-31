@@ -1,0 +1,5 @@
+{
+  "name": "RunFlow",
+  "description": "A top-tier running web application with GPS tracking, pace calculation, split times, and Firebase integration. It offers a seamless experience from a dynamic splash screen to detailed run analysis, and is installable on your device for offline use.",
+  "requestFramePermissions": []
+}
